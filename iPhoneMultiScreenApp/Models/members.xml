@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <members>
+        <mname>Aerial</mname>
+        <member>
+            <name>Puffins</name>
+            <intro>Small alcids in the bird genus Fratercula</intro>
+            <habitat>Coastal cliffs, islands</habitat>
+            <lifespan>15-20 years</lifespan>
+            <feeding>Fish, crustaceans</feeding>
+            <tsn>177025</tsn>
+            <url>https://en.wikipedia.org/wiki/Puffin</url>
+            <images>
+                <image>Puffins01.jpg</image>
+                <image>Puffins02.jpg</image>
+                <image>Puffins03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Hummingbird</name>
+            <intro>Small, fast-flying bird.</intro>
+            <habitat>Tropical and subtropical areas.</habitat>
+            <lifespan>3-5 years.</lifespan>
+            <feeding>Flower nectar, insects.</feeding>
+            <tsn>177993</tsn>
+            <url>https://en.wikipedia.org/wiki/Hummingbird</url>
+            <images>
+                <image>hummingbirds01.jpeg</image>
+                <image>hummingbirds02.jpeg</image>
+                <image>hummingbirds03.png</image>
+            </images>
+        </member>
+        <member>
+            <name>Seagull</name>
+            <intro>Medium seabirds in the family Laridae</intro>
+            <habitat>Coastal areas, lakes, rivers</habitat>
+            <lifespan>10-30 years</lifespan>
+            <feeding>Fish, insects, carrion</feeding>
+            <tsn>176445</tsn>
+            <url>https://en.wikipedia.org/wiki/Seagull</url>
+            <images>
+                <image>Seagulls01.jpeg</image>
+                <image>Seagulls02.jpeg</image>
+                <image>Seagulls03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Toucan</name>
+            <intro>Brightly colored birds with large bills</intro>
+            <habitat>Tropical and subtropical forests</habitat>
+            <lifespan>15-20 years</lifespan>
+            <feeding>Fruits, insects, small reptiles</feeding>
+            <tsn>178146</tsn>
+            <url>https://en.wikipedia.org/wiki/Toucan</url>
+            <images>
+                <image>Toucans01.jpeg</image>
+                <image>Toucans02.jpeg</image>
+                <image>Toucans03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Falcon</name>
+            <intro>Swift birds of prey with sharp talons</intro>
+            <habitat>Open landscapes, cliffs, cities</habitat>
+            <lifespan>10-20 years</lifespan>
+            <feeding>Small birds, mammals, insects</feeding>
+            <tsn>175262</tsn>
+            <url>https://en.wikipedia.org/wiki/Falcon</url>
+            <images>
+                <image>Falcons01.jpeg</image>
+                <image>Falcons02.jpg</image>
+                <image>Falcons03.jpeg</image>
+            </images>
+        </member>
+    </members>
+    <members>
+        <mname>Aquatic</mname>
+        <member>
+            <name>Sea Otter</name>
+            <intro>Marine mammal in the North Pacific.</intro>
+            <habitat>Kelp forests, coastal waters.</habitat>
+            <lifespan>10-15 years.</lifespan>
+            <feeding>Crustaceans, sea urchins.</feeding>
+            <tsn>180547</tsn>
+            <url>https://en.wikipedia.org/wiki/Sea_otter</url>
+            <images>
+                <image>seaOtter01.jpeg</image>
+                <image>seaOtter02.jpeg</image>
+                <image>seaOtter03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Penguin</name>
+            <intro>Flightless, aquatic bird</intro>
+            <habitat>Antarctic, coastal regions</habitat>
+            <lifespan>15-20 years</lifespan>
+            <feeding>Fish, krill, squid</feeding>
+            <tsn>174442</tsn>
+            <url>https://en.wikipedia.org/wiki/Penguin</url>
+            <images>
+                <image>Penguin01.jpeg</image>
+                <image>Penguin02.jpeg</image>
+                <image>Penguin03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Seal</name>
+            <intro>Marine mammal with a streamlined body</intro>
+            <habitat>Coastal waters, ice floes</habitat>
+            <lifespan>25-30 years</lifespan>
+            <feeding>Fish, squid, crustaceans</feeding>
+            <tsn>180640</tsn>
+            <url>https://en.wikipedia.org/wiki/Seal</url>
+            <images>
+                <image>Seal01.jpeg</image>
+                <image>Seal02.jpeg</image>
+                <image>Seal03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Clownfish</name>
+            <intro>Bright orange fish with white bands</intro>
+            <habitat>Coral reefs, anemones</habitat>
+            <lifespan>6-10 years</lifespan>
+            <feeding>Algae, zooplankton</feeding>
+            <tsn>615174</tsn>
+            <url>https://en.wikipedia.org/wiki/Clownfish</url>
+            <images>
+                <image>Clownfish01.jpeg</image>
+                <image>Clownfish02.jpeg</image>
+                <image>Clownfish03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Atlantic Ghost Crab</name>
+            <intro>Small, pale crab with fast movements</intro>
+            <habitat>Coastal beaches, sandy dunes</habitat>
+            <lifespan>3-4 years</lifespan>
+            <feeding>Detritus, small invertebrates</feeding>
+            <tsn>99082</tsn>
+            <url>https://en.wikipedia.org/wiki/Atlantic_ghost_crab</url>
+            <images>
+                <image>atlanticGhostCrab01.jpeg</image>
+                <image>atlanticGhostCrab02.jpeg</image>
+                <image>atlanticGhostCrab03.jpeg</image>
+            </images>
+        </member>
+    </members>
+    <members>
+        <mname>Terrestrial</mname>
+        <member>
+            <name>Fennec Fox</name>
+            <intro>Small desert fox with large ears.</intro>
+            <habitat>Desert dunes, arid regions.</habitat>
+            <lifespan>10-14 years.</lifespan>
+            <feeding>Insects, small rodents, fruits.</feeding>
+            <tsn>621865</tsn>
+            <url>https://en.wikipedia.org/wiki/Fennec_fox</url>
+            <images>
+                <image>fennecFox01.jpeg</image>
+                <image>fennecFox02.jpeg</image>
+                <image>fennecFox03.png</image>
+            </images>
+        </member>
+        <member>
+            <name>Red Panda</name>
+            <intro>Small, tree-dwelling mammal</intro>
+            <habitat>Mountain forests</habitat>
+            <lifespan>8-15 years</lifespan>
+            <feeding>Bamboo, fruits, insects</feeding>
+            <tsn>621846</tsn>
+            <url>https://en.wikipedia.org/wiki/Red_panda</url>
+            <images>
+                <image>redPanda01.jpeg</image>
+                <image>redPanda02.png</image>
+                <image>redPanda03.png</image>
+            </images>
+        </member>
+        <member>
+            <name>Tamias</name>
+            <intro>Small, striped ground squirrel</intro>
+            <habitat>Forests, grasslands, mountains</habitat>
+            <lifespan>3-9 years</lifespan>
+            <feeding>Nuts, seeds, fruits, insects</feeding>
+            <tsn>180188</tsn>
+            <url>https://en.wikipedia.org/wiki/Tamias</url>
+            <images>
+                <image>Tamias01.jpeg</image>
+                <image>Tamias02.jpeg</image>
+                <image>Tamias03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Ferret</name>
+            <intro>Small, playful carnivorous mammal</intro>
+            <habitat>Grasslands, forests</habitat>
+            <lifespan>5-10 years</lifespan>
+            <feeding>Rodents, birds, eggs</feeding>
+            <tsn>180588</tsn>
+            <url>https://en.wikipedia.org/wiki/Ferret</url>
+            <images>
+                <image>Ferret01.jpeg</image>
+                <image>Ferret02.jpeg</image>
+                <image>Ferret03.jpeg</image>
+            </images>
+        </member>
+        <member>
+            <name>Valais Blacknose</name>
+            <intro>Sheep with black face and legs</intro>
+            <habitat>Alpine regions of Switzerland</habitat>
+            <lifespan>10-12 years</lifespan>
+            <feeding>Grass, herbs, shrubs</feeding>
+            <tsn>180704</tsn>
+            <url>https://en.wikipedia.org/wiki/Valais_Blacknose_sheep</url>
+            <images>
+                <image>valaisBlacknose01.jpeg</image>
+                <image>valaisBlacknose02.jpeg</image>
+                <image>valaisBlacknose03.jpeg</image>
+            </images>
+        </member>
+    </members>
+</root>
